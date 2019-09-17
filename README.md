@@ -1,2 +1,2 @@
 # PUMA560
-Wprkspace generation and manipulation of Unimation's PUMA 560 robot using Peter Corke's Robotics, Vision, and Control Toolbox in MATLAB.
+Workspace generation and manipulation of Unimation's PUMA 560 robot using Peter Corke's Robotics, Vision, and Control Toolbox in MATLAB.
